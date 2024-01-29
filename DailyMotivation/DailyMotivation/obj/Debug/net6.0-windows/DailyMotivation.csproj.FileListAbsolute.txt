@@ -1,0 +1,17 @@
+F:\programs\DailyMotivation\DailyMotivation\bin\Debug\net6.0-windows\DailyMotivation.exe
+F:\programs\DailyMotivation\DailyMotivation\bin\Debug\net6.0-windows\DailyMotivation.deps.json
+F:\programs\DailyMotivation\DailyMotivation\bin\Debug\net6.0-windows\DailyMotivation.runtimeconfig.json
+F:\programs\DailyMotivation\DailyMotivation\bin\Debug\net6.0-windows\DailyMotivation.dll
+F:\programs\DailyMotivation\DailyMotivation\bin\Debug\net6.0-windows\DailyMotivation.pdb
+F:\programs\DailyMotivation\DailyMotivation\obj\Debug\net6.0-windows\DailyMotivation.csproj.AssemblyReference.cache
+F:\programs\DailyMotivation\DailyMotivation\obj\Debug\net6.0-windows\DailyMotivation.Form1.resources
+F:\programs\DailyMotivation\DailyMotivation\obj\Debug\net6.0-windows\DailyMotivation.csproj.GenerateResource.cache
+F:\programs\DailyMotivation\DailyMotivation\obj\Debug\net6.0-windows\DailyMotivation.GeneratedMSBuildEditorConfig.editorconfig
+F:\programs\DailyMotivation\DailyMotivation\obj\Debug\net6.0-windows\DailyMotivation.AssemblyInfoInputs.cache
+F:\programs\DailyMotivation\DailyMotivation\obj\Debug\net6.0-windows\DailyMotivation.AssemblyInfo.cs
+F:\programs\DailyMotivation\DailyMotivation\obj\Debug\net6.0-windows\DailyMotivation.csproj.CoreCompileInputs.cache
+F:\programs\DailyMotivation\DailyMotivation\obj\Debug\net6.0-windows\DailyMotivation.dll
+F:\programs\DailyMotivation\DailyMotivation\obj\Debug\net6.0-windows\refint\DailyMotivation.dll
+F:\programs\DailyMotivation\DailyMotivation\obj\Debug\net6.0-windows\DailyMotivation.pdb
+F:\programs\DailyMotivation\DailyMotivation\obj\Debug\net6.0-windows\DailyMotivation.genruntimeconfig.cache
+F:\programs\DailyMotivation\DailyMotivation\obj\Debug\net6.0-windows\ref\DailyMotivation.dll
